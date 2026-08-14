@@ -1,4 +1,4 @@
-# Figma Website Builder Ultimate V7
+# Figma Website Builder Ultimate
 
 V7 exports a robust website ZIP from a selected Figma Frame.
 
