@@ -1,0 +1,17 @@
+{
+  "name": "Figma Website Builder",
+  "id": "figma-website-builder",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "*"
+    ],
+    "reasoning": "Optional semantic refinement can use a user-configured API endpoint. The local Smart 90+ engine, ZIP export, assets, WebP, SVG, tokens, components, preview, and QA work offline."
+  }
+}
